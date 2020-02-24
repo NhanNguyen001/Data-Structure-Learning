@@ -1,0 +1,1 @@
+Push and Pop always faster than shift and unshift
