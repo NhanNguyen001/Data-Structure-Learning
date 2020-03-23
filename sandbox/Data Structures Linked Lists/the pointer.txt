@@ -1,0 +1,1 @@
+the pointer is simply a reference to something else in memory.
